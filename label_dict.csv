@@ -1,0 +1,21 @@
+Dominant_Topic,Label_1,Label_2
+0,Booking ,Service
+1,Communication(Email),Service
+2,Communication(Executive),
+3,Product Price,Communication
+4,Communication,Refund
+5,Communication,Service
+6,Product Price,Tyre fitting
+7,Tyre fitting,Integration
+8,Communication,Service
+9,Tyre fitting,Website
+10,Cancellation,Communication(Email)
+11,Service,Product Availability
+12,Communication,Tyre fitting
+13,Tyre fitting,Communication(Email)
+14,Service,Product Availability
+15,Website,Communication
+16,Communication(Email),Tyre fitting
+17,Service,Communication
+18,Tyre fitting,Booking
+19,Booking ,Tyre fitting
